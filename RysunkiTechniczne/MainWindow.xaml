@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid Margin="0,0,0,-1">
-        <Canvas x:Name="GlownePlotno" HorizontalAlignment="Left" Height="253" Margin="10,30,0,0" VerticalAlignment="Top" Width="497" MouseDown="MouseDown_Click" MouseUp="MouseUp_Unclick"/>
+        <Canvas x:Name="GlownePlotno" HorizontalAlignment="Left" Height="253" Margin="10,30,0,0" VerticalAlignment="Top" Width="497" MouseDown="MouseDown_Click" MouseUp="MouseUp_Unclick" Background="Transparent"/>
         <Button x:Name="Rysujlinie" Content="Rysuj linię" HorizontalAlignment="Left" Margin="10,288,0,0" VerticalAlignment="Top" Width="100" Click="Rysujlinie_Click"/>
         <Button x:Name="RysujProstokat" Content="Rysuj prostokąt&#xD;&#xA;" HorizontalAlignment="Left" Margin="260,288,0,0" VerticalAlignment="Top" Width="107" Height="22"/>
         <Button x:Name="RysujWielokat" Content="Rysuj wielokąt" HorizontalAlignment="Left" Margin="125,288,0,0" VerticalAlignment="Top" Width="115" Height="22"/>

@@ -51,7 +51,7 @@ namespace RysunkiTechniczne
 
         private void MouseUp_Unclick(object sender, MouseButtonEventArgs e)
         {
-            Linia linia = (Linia)lista[lista.Count];
+            Linia linia = (Linia)lista[lista.Count-1];
             var position = e.GetPosition(GlownePlotno);
             linia.linia.X2 = position.X;
             linia.linia.Y2 = position.Y;
