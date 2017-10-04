@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RysunkiTechniczne", "RysunkiTechniczne\RysunkiTechniczne.csproj", "{C709EE2E-4654-43F4-8A87-29BC07900AE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RysunekTechnicznyTest", "RysunekTechnicznyTest\RysunekTechnicznyTest.csproj", "{522D54F5-B4EC-4BAF-9FE7-259973C5BBB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C709EE2E-4654-43F4-8A87-29BC07900AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C709EE2E-4654-43F4-8A87-29BC07900AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C709EE2E-4654-43F4-8A87-29BC07900AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C709EE2E-4654-43F4-8A87-29BC07900AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{522D54F5-B4EC-4BAF-9FE7-259973C5BBB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{522D54F5-B4EC-4BAF-9FE7-259973C5BBB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{522D54F5-B4EC-4BAF-9FE7-259973C5BBB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{522D54F5-B4EC-4BAF-9FE7-259973C5BBB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
